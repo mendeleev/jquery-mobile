@@ -1,0 +1,21 @@
+{
+  "name": "jquery-mobile",
+  "version": "1.4.5",
+  "homepage": "https://github.com/mendeleev/jquery-mobile",
+  "authors": [
+    "priadko <andrii.priadko@ria.com>"
+  ],
+  "description": "custom version of jquery-mobile library",
+  "main": "jquery.mobile-1.4.5.min.js",
+  "keywords": [
+    "jquery-mobile"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
