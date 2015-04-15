@@ -6,7 +6,7 @@
     "priadko <andrii.priadko@ria.com>"
   ],
   "description": "custom version of jquery-mobile library",
-  "main": "./jquery-mobile/lib/jquery.mobile-1.4.5.min.js",
+  "main": "./lib/jquery.mobile-1.4.5.min.js",
   "keywords": [
     "jquery-mobile"
   ],
